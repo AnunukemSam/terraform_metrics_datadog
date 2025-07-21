@@ -299,5 +299,3 @@ You've:
 
 > 📁 Push only the safe, necessary files to GitHub. Document your API key handling carefully.
 
-
-# terraform_metrics_datadog
